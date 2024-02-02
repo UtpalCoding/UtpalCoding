@@ -25,3 +25,11 @@ func main() {
   fmt.Println(me)
 }
 ```
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-XD&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=U7P4L-XD&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=U7P4L-XD&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=U7P4L-XD&theme=dark&utcOffset)
