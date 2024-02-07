@@ -2,11 +2,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+U7P4L+XD!;" />
 </h1>
 
+<!-- Badges -->
+<p>
+    <h1 align="center"><img src="https://img.shields.io/github/followers/U7P4L-XD?style=social&label=follow"><img src="https://img.shields.io/github/stars/U7P4L-XD?style=social"></a>
 
 <h5 align="center"><b>LANGUAGE</b></h5>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
+```python
+class Languages:
+  def __init__(self):
+    self.python = "Python 🐍"
+    self.javascript = "JavaScript 🔩"
+    self.react = "React (Learning)"
+    self.future = "..."
+```
 
 <h5 align="center"><b>MY INFORMATION</b></h5>
 
