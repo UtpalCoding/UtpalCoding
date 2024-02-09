@@ -4,8 +4,7 @@
 
 <!-- Badges -->
 <p>
-    <h1 align="center"><img src="https://img.shields.io/github/followers/U7P4L-XD?style=social&label=follow"><img src="https://img.shields.io/github/stars/U7P4L-XD?style=social"></a>
-
+<h1 align="center"><img src="https://img.shields.io/github/followers/U7P4L-XD?style=social&label=follow"><img src="https://img.shields.io/github/stars/U7P4L-XD?style=social"></a></h1></br>
 
 ```python
 class Languages:
@@ -35,7 +34,6 @@ class Languages:
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<br/>  
 
 <h5 align="center"><b>LANGUAGE</b></h5>
 
