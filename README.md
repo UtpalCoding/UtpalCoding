@@ -4,7 +4,7 @@
 
 <!-- Badges -->
 <p>
-<h1 align="center"><img src="https://img.shields.io/github/followers/U7P4L-XD?style=social&label=follow"><img src="https://img.shields.io/github/stars/U7P4L-XD?style=social"></a></h1></br>
+<h1 align="center"><img src="https://img.shields.io/github/followers/UtpalCoding?style=social&label=follow"><img src="https://img.shields.io/github/stars/UtpalCoding?style=social"></a></h1></br>
 
 ```python
 class Languages:
@@ -40,10 +40,10 @@ class Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-XD&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtpalCoding&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=U7P4L-XD&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UtpalCoding&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=U7P4L-XD&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UtpalCoding&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=U7P4L-XD&theme=dark&utcOffset)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UtpalCoding&theme=dark&utcOffset)
